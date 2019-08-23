@@ -2,7 +2,6 @@
 
 Et Netbeans projekt i hver mappe, svarer til opgaverne på dagen.
 
-[GitHub Pages](https://pages.github.com/).
 
 #Day 2
 
