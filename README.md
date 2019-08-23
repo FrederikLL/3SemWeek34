@@ -28,3 +28,5 @@ bankcustomer/id (et id) virker ikke... har prøvet både med Bankcustomer og cus
 
 Det er deployet på min servlet nu på min [droplet] (http://206.81.27.159:8080/jpa_rest_startup-1.0/api/bankcustomer/all) hvor 
 man kan se min testdata.
+
+http://206.81.27.159:8080/demo/
